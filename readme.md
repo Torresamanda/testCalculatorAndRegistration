@@ -1,7 +1,7 @@
 # Teste - Cadastro de usuário e Calculadora
 
 <p align="justify">
-    Um desafio proposto pela OneBitCode 
+    Um desafio proposto pela OneBitCode, onde era necessário recuperar o valor escrito no input com javasccript e reproduzir na tela o resultado.
 <br>
 
 ## Web
