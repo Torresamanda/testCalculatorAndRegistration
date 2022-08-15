@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+    <title>Cadastro de Recrutas</title>
+</head>
+<body>
+
+    <nav class="navBar">
+        <a href="./calculadora.html">
+            Calculadora
+        </a>
+    </nav>
+
+    <div class="container">
+        <h1>Cadastro de Recrutas</h1>
+
+        <div class="box">
+            <div>
+                <label for="textinput">Primeiro Nome:</label>
+                <input class="textInput" id="textinput" name="textinput" type="text" placeholder="Digite o seu primeiro nome" required>
+            </div>
+        
+            <div>
+                <label for="secondName">Segundo Nome:</label>
+                <input class="textInput" id="secondName" name="secondName" type="text" placeholder="Digite o seu segundo nome" required>
+            </div>
+        
+            <div>
+                <label for="campoEstudo">Campo de estudo:</label>
+                <input class="textInput" id="campoEstudo" name="campoEstudo" type="text" placeholder="Digite o seu campo de estudo" required>
+            </div>
+
+            <div>
+                <label for="nascimento">Ano de nascimento:</label>
+                <input class="textInput" id="nascimento" name="nascimento" type="number" placeholder="Digite o ano seu nascimento" required>
+            </div>
+        
+            <div class="button">
+                <button onclick="enviar()">Confirmar</button>
+            </div>
+        </div>
+
+        <div id="resultado">
+            
+        </div>
+    </div>
+
+    <footer>
+        Amanda Torres &copy; 2022
+        <div class="sociais">
+            <a href="https://www.instagram.com/srt.a_torres/">Instagram</a>
+            <a href="https://github.com/Torresamanda">Github</a>
+            <a href="https://www.linkedin.com/in/torresamandab/">Linkedin</a>
+        </div>
+    </footer>
+
+    
+    
+    <script src="./index.js"></script>
+</body>
+</html>
