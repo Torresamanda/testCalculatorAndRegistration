@@ -11,10 +11,6 @@
 
 <br><br>
 
-<div> 
-   <img align="left" alt="Readme" title="Readme" align="center" src="./imgs/2.jpg">
-</div>
-
 ## Linguagens Utilizadas
 <div>
  <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
