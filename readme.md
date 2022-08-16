@@ -9,8 +9,6 @@
     <img alt="Readme" title="Readme" align="center" src="./imgs/1.jpg"> <br> 
 </div>
 
-<br><br>
-
 ## Linguagens Utilizadas
 <div>
  <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
