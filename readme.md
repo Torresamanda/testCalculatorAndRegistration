@@ -4,7 +4,6 @@
     Um desafio proposto pela OneBitCode, onde era necessário recuperar o valor escrito no input com javasccript e reproduzir na tela o resultado.
 <br>
 
-## Web
 <div>
     <img alt="Readme" title="Readme" align="center" src="./imgs/1.jpg"> <br> 
 </div>
